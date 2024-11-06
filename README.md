@@ -9,6 +9,6 @@
 #### Arduino Mega 2560
 ## images
 
-uploading soon...
+uploading soon.
 
 ..
