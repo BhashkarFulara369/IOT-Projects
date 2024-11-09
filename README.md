@@ -6,7 +6,7 @@
 # I am Bhashkar
 
 # Learn IOT
-#### Arduino Mega 2560
+#### Arduino Mega 
 ## images
 
 uploading soon......
