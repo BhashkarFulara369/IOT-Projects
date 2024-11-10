@@ -9,6 +9,6 @@
 #### Arduino Mega 
 ## images
 
-uploading soon..
+uploading soon
 
 
