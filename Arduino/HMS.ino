@@ -1,20 +1,4 @@
-/*
-// Basic Code for diplaying 
-#include <LiquidCrystal.h>;
 
-const int rs = 12, en = 11, d4 = 39, d5 = 41, d6 = 43, d7 = 47, ct=9;
-LiquidCrystal mylcd(rs, en, d4, d5, d6, d7);
-
-void setup() {
-analogWrite(ct,99);
-mylcd.begin(16,2);
-mylcd.print("Bhashkar__Fulara");
-}
-
- void loop() {
-  
- }
-*/
 #include <DHT.h>  // Including library for dht
  //#include "secrets.h"
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
@@ -120,11 +104,6 @@ void loop()
   delay(15000);
 }
 
-
-
-
-// Now working on pH Calibratioin data sending to Thingspeak
-// Working in the project usign software serial librarry
 
 
 
