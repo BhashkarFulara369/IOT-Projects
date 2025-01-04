@@ -19,6 +19,7 @@ void loop () {
 ## Familiarity with <a href="https://thingspeak.mathworks.com/"> Thingspeak </a> OR any other cloud IOT platform.
 ## Know about <a href="https://mqtt.org/" > MQTT Protocol.</a>
 
+
 # IOT What ? ('_') -
 
 ## The Internet of Things (IoT) is a network of physical objects that are connected to the internet and can exchange data with other devices and systems. IoT devices can include household objects, industrial tools and more. 
@@ -27,7 +28,7 @@ void loop () {
 # Projects :>
 
 ## 1. Automated Hydroponics System <a href="https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics">Know more about hydroponics.</a>
-### Required items - ( <a href="https://docs.google.com/document/d/1t5j7cK90AHeSrjhxWL1rLW6ijhZ1AwvUKhWvaJOWBUc/edit?usp=sharing> Download the item list</a> )
+### Required items - <a href="https://docs.google.com/document/d/1t5j7cK90AHeSrjhxWL1rLW6ijhZ1AwvUKhWvaJOWBUc/edit?usp=sharing"> Download the items list</a>
 
 |S.No.|Device OR Module Name|
 |---|---|
