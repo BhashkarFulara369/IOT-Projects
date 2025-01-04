@@ -27,8 +27,8 @@ void loop () {
 
 # Projects :>
 
-## 1. Automated Hydroponics System <a href="https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics">Know more about hydroponics.</a>
-### Required items - <a href="https://docs.google.com/document/d/1t5j7cK90AHeSrjhxWL1rLW6ijhZ1AwvUKhWvaJOWBUc/edit?usp=sharing"> Download the items list:link:</a>
+## 1. Automated Hydroponics System <a href="https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics">Know more about hydroponics. :link: </a>
+### Required items - <a href="https://docs.google.com/document/d/1t5j7cK90AHeSrjhxWL1rLW6ijhZ1AwvUKhWvaJOWBUc/edit?usp=sharing"> Download the items list :link:</a>
 
 |S.No.|Device OR Module Name|
 |---|---|
