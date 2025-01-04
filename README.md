@@ -1,4 +1,4 @@
-# Getting Started: Prerequisites and Basics -> :green_book:
+# :innocent: Getting Started: Prerequisites and Basics -> :green_book:
 #### 1. <a href="https://www.arduino.cc/en/software :link:"> Latest Version of Arduino IDE </a>
 
 #### 2. Programming Language - `C++`
