@@ -12,10 +12,11 @@ void loop () {
 // Code runs multiple times
 }
 ```
-#### 3. Learn from the Source: Prioritize Official Documentation
-#### 4. Microcontrollers: Familiarity with Arduino, Raspberry Pi, or ESP32/ESP8266
-#### 5. Networking fundamentals: Understanding of TCP/IP, HTTP, and **MQTT** protocols
-#### 6. Data structures and algorithms: Basic knowledge of data types, variables, loops, and control structures
+3. Learn from the Source: Prioritize Official Documentation.
+4. Microcontrollers: Familiarity with Arduino, Raspberry Pi, or ESP32/ESP8266
+5. Networking fundamentals: Understanding of TCP/IP, HTTP, and **MQTT** protocols
+6. Data structures and algorithms: Basic knowledge of data types, variables, loops, and control structures
+## Familiarity with <a href="https://thingspeak.mathworks.com/"> Thingspeak </a> OR any other clout IOT platform.
 
 # IOT What ? ('_') -
 
