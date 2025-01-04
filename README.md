@@ -17,6 +17,7 @@ void loop () {
 5. Networking fundamentals: Understanding of TCP/IP, HTTP, and **MQTT** protocols
 6. Data structures and algorithms: Basic knowledge of data types, variables, loops, and control structures
 ## Familiarity with <a href="https://thingspeak.mathworks.com/"> Thingspeak </a> OR any other clout IOT platform.
+## Know about <a href="https://mqtt.org/" > MQTT </a>
 
 # IOT What ? ('_') -
 
@@ -26,7 +27,21 @@ void loop () {
 # Projects :>
 
 ## 1. Automated Hydroponics System <a href="https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics">Know more about hydroponics.</a>
-
+### Required items -
+|S.No.|Device OR Module Name|
+|---|---|
+|1.|pH Sensor|
+|2.|Arduino Mega|
+|3.|Dht11 OR Dht22|
+|4.|ESP8266|
+|5.|HC05 800|
+|6.|Digital Display(16*2)|
+|7.|Arduino outer case|
+|8.|Relay (Acc. to your need)|
+|9.|12v Dc supply|
+|10.|5V Dc adapter|
+|12.|Fish feeder|
+|13.|Water level sensor|
 
 # [IMAGES] Different IOT Devices....
 
