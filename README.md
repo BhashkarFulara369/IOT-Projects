@@ -1,16 +1,20 @@
 # Getting Started: Prerequisites and Basics ->
 <a href="https://www.arduino.cc/en/software"> Latest Version of Arduino IDE </a>
+
 <br>
-**Programming Language** \C++\
-'''
+
+**Programming Language** `C++`
+```
+// Know about this
 void Setup () {
 // Code runs only one time
 }
 
 void loop () {
-// 
+// Code runs multiple times
 }
-'''
+
+```
 # IOT What ? ('_') -
 
 ## The Internet of Things (IoT) is a network of physical objects that are connected to the internet and can exchange data with other devices and systems. IoT devices can include household objects, industrial tools and more. 
