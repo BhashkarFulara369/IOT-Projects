@@ -17,7 +17,7 @@ void loop () {
 5. Networking fundamentals: Understanding of TCP/IP, HTTP, and **MQTT** protocols
 6. Data structures and algorithms: Basic knowledge of data types, variables, loops, and control structures
 ## Familiarity with <a href="https://thingspeak.mathworks.com/"> Thingspeak </a> OR any other clout IOT platform.
-## Know about <a href="https://mqtt.org/" > MQTT </a>
+## Know about <a href="https://mqtt.org/" > MQTT Protocol</a>
 
 # IOT What ? ('_') -
 
