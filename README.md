@@ -1,9 +1,9 @@
 # Getting Started: Prerequisites and Basics ->
-<a href="https://www.arduino.cc/en/software"> Latest Version of Arduino IDE </a>
+#### <a href="https://www.arduino.cc/en/software"> Latest Version of Arduino IDE </a>
 
 <br>
 
-**Programming Language** `C++`
+#### Programming Language** `C++`
 ```
 // Know about this
 void Setup () {
