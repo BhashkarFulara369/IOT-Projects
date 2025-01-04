@@ -1,7 +1,11 @@
+# Getting Started: Prerequisites and Basics ->
+<a href="https://www.arduino.cc/en/software"> Latest Version of Arduino IDE <br>
+Programming Language 'C++' 
 # IOT What ? ('_') -
 ## The Internet of Things (IoT) is a network of physical objects that are connected to the internet and can exchange data with other devices and systems. IoT devices can include household objects, industrial tools and more. 
 # Projects :>
 ## 1. Automated Hydroponics System <a href="https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics">Know more about hydroponics.</a>
+
 
 # [IMAGES] Different IOT Devices....
 
