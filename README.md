@@ -36,7 +36,7 @@ void loop () {
 |2.|Arduino Mega|
 |3.|Dht11 OR Dht22|
 |4.|ESP8266|
-|5.|HC05 800|
+|5.|HC05 (Blutooth Module)|
 |6.|Digital Display(16*2)|
 |7.|Arduino outer case|
 |8.|Relay (Acc. to your need)|
