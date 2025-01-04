@@ -1,5 +1,5 @@
-# Getting Started: Prerequisites and Basics ->
-#### 1. <a href="https://www.arduino.cc/en/software"> Latest Version of Arduino IDE </a>
+# Getting Started: Prerequisites and Basics -> :green_book:
+#### 1. <a href="https://www.arduino.cc/en/software :link:"> Latest Version of Arduino IDE </a>
 
 #### 2. Programming Language - `C++`
 ```
@@ -16,8 +16,8 @@ void loop () {
 4. Microcontrollers: Familiarity with Arduino, Raspberry Pi, or ESP32/ESP8266
 5. Networking fundamentals: Understanding of TCP/IP, HTTP, and **MQTT** protocols
 6. Data structures and algorithms: Basic knowledge of data types, variables, loops, and control structures
-## Familiarity with <a href="https://thingspeak.mathworks.com/"> Thingspeak </a> OR any other cloud IOT platform.
-## Know about <a href="https://mqtt.org/" > MQTT Protocol.</a>
+## Familiarity with <a href="https://thingspeak.mathworks.com/"> Thingspeak :link: </a> OR any other cloud IOT platform.
+## Know about <a href="https://mqtt.org/ :link:" > MQTT Protocol.</a>
 
 
 # IOT What ? ('_') -
