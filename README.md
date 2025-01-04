@@ -1,7 +1,7 @@
 # Getting Started: Prerequisites and Basics ->
-#### <a href="https://www.arduino.cc/en/software"> Latest Version of Arduino IDE </a>
+#### 1. <a href="https://www.arduino.cc/en/software"> Latest Version of Arduino IDE </a>
 
-#### Programming Language - `C++`
+#### 2. Programming Language - `C++`
 ```
 // Know about this
 void Setup () {
@@ -12,8 +12,10 @@ void loop () {
 // Code runs multiple times
 }
 ```
-#### Learn from the Source: Prioritize Official Documentation
-
+#### 3. Learn from the Source: Prioritize Official Documentation
+#### 4. Microcontrollers: Familiarity with Arduino, Raspberry Pi, or ESP32/ESP8266
+#### 5. Networking fundamentals: Understanding of TCP/IP, HTTP, and **MQTT** protocols
+#### 6. Data structures and algorithms: Basic knowledge of data types, variables, loops, and control structures
 
 # IOT What ? ('_') -
 
