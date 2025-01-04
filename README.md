@@ -1,7 +1,7 @@
 # Getting Started: Prerequisites and Basics ->
 <a href="https://www.arduino.cc/en/software"> Latest Version of Arduino IDE </a>
 <br>
-**Programming Language** 
+**Programming Language** \C++\
 '''
 void Setup () {
 // Code runs only one time
