@@ -16,8 +16,8 @@ void loop () {
 4. Microcontrollers: Familiarity with Arduino, Raspberry Pi, or ESP32/ESP8266
 5. Networking fundamentals: Understanding of TCP/IP, HTTP, and **MQTT** protocols
 6. Data structures and algorithms: Basic knowledge of data types, variables, loops, and control structures
-## Familiarity with <a href="https://thingspeak.mathworks.com/"> Thingspeak </a> OR any other clout IOT platform.
-## Know about <a href="https://mqtt.org/" > MQTT Protocol</a>
+## Familiarity with <a href="https://thingspeak.mathworks.com/"> Thingspeak </a> OR any other cloud IOT platform.
+## Know about <a href="https://mqtt.org/" > MQTT Protocol.</a>
 
 # IOT What ? ('_') -
 
@@ -27,7 +27,8 @@ void loop () {
 # Projects :>
 
 ## 1. Automated Hydroponics System <a href="https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics">Know more about hydroponics.</a>
-### Required items -
+### Required items - (<a href="https://docs.google.com/document/d/1t5j7cK90AHeSrjhxWL1rLW6ijhZ1AwvUKhWvaJOWBUc/edit?usp=sharing>Download the item list</a>)
+
 |S.No.|Device OR Module Name|
 |---|---|
 |1.|pH Sensor|
@@ -43,8 +44,8 @@ void loop () {
 |12.|Fish feeder|
 |13.|Water level sensor|
 
-# [IMAGES] Different IOT Devices....
 
+# [IMAGES] Different IOT Devices....
 ![IOT1](https://github.com/user-attachments/assets/79db59d5-6edb-408f-9828-874a7c6fe23b)
 
 ![IOT2](https://github.com/user-attachments/assets/3bb88357-dc0a-4904-a14f-836dfe93fc4f)
