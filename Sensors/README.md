@@ -1,4 +1,4 @@
-# Some different types of Sensors ->
+# 🖥️ Some different types of Sensors ->
 ### Environmental Sensors
 
 1. Temperature sensors: Measure temperature changes (e.g., thermistors, thermocouples).
