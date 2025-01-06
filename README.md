@@ -16,8 +16,10 @@ void loop () {
 4. Microcontrollers: Familiarity with Arduino, Raspberry Pi, or ESP32/ESP8266
 5. Networking fundamentals: Understanding of TCP/IP, HTTP, and **MQTT** protocols
 6. Data structures and algorithms: Basic knowledge of data types, variables, loops, and control structures
+
 ## Familiarity with <a href="https://thingspeak.mathworks.com/"> Thingspeak :link: </a> OR any other cloud IOT platform.
 ## Know about <a href="https://mqtt.org/getting-started/" > MQTT Protocol. :link: </a>
+![Alt text](https://psiborg.in/wp-content/uploads/2024/01/MQTT-1-1.webp)
 
 
 # IOT What ? ('_') -
