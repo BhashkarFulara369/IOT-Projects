@@ -1,5 +1,5 @@
 # :innocent: Getting Started: Prerequisites and Basics -> :green_book:
-#### 1. <a href=" https://www.arduino.cc/en/software"> Latest Version of Arduino IDE :link:</a>
+#### 1. <a href="https://www.arduino.cc/en/software"> Latest Version of Arduino IDE :link:</a>
 
 #### 2. Programming Language - `C++`
 ```
