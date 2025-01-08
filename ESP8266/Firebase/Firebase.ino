@@ -1,9 +1,13 @@
-/*  */
+/*  This code facilitates the transmission of pH, humidity, and temperature data to a Firebase Real-Time Database,
+while concurrently enabling control over two distinct electrical devices via the same database. 
+The implementation utilizes modular functions, including a handSerialCommunication function for handling
+serial communication between Arduino and ESP8266, 
+and a separate function dedicated to sending data to Firebase.*/
+
 #include <ESP8266WiFi.h>
-#include <Firebase_ESP_Client.h>
+#include <Firebase_ESP_Client.h> // Updated Firebase library
 #include <DHT.h>
-#include "ThingSpeak.h"
-#include <SoftwareSerial.h>
+#include <SoftwareSerial.h>  // library for Serial Communicationi
 #include <String.h>
 #include <stdlib.h>
 
@@ -74,18 +78,20 @@ void setup() {
 
 
 
-
+// Handling communication b/w esp8266 and arduino mega 2560
 
 
 void handleSerialCommunication() {
   if (Serial.available() > 0) {
     String rs = Serial.readStringUntil('\n');
-    float pHValue = rs.toFloat();
+    float pHValue = rs.toFloat(); // converting string to float and getting the ph value
     Serial.printf("%f\n", pHValue);
     global_pHValue = pHValue;
   }
 }
 
+
+// Seding all the values to Firebase RTDB
 void sendDataToFirebase() {
   int ledState;
   int ledState2;
@@ -115,7 +121,7 @@ void sendDataToFirebase() {
   } else {
     Serial.println(fbdo.errorReason().c_str());
   }
-
+/*Important : all values changes after 1 Second but p.H. values will be changed after 10 second */
   static unsigned long last_pH_Send = 0;
   if (millis() - last_pH_Send >= 10000) {
     Serial.printf("p.H: %s\n,", Firebase.RTDB.setFloat(&fbdo, F("/hydro/pH"), global_pHValue) ? "ok" : fbdo.errorReason().c_str());
@@ -123,7 +129,7 @@ void sendDataToFirebase() {
   }
 }
 
-// run again and again it 
+// run again and again 
 void loop() {
   handleSerialCommunication(); // Different Function for handling the Serial Communication 
   if (Firebase.ready()) {
