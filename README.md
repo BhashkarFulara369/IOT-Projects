@@ -18,7 +18,7 @@ void loop () {
 6. Data structures and algorithms: Basic knowledge of data types, variables, loops, and control structures
 
 ## ◾ Familiarity with <a href="https://thingspeak.mathworks.com/"> Thingspeak :link: </a> OR any other cloud IOT platform.
-## ◾ Know about <a href="https://firebase.google.com/"> FIREBASE 🔗 </a>
+## ◾ Know about <a href="https://firebase.google.com/"> FIREBASE RTDB (Real Time DataBase)🔗 </a>
 ## ◾ Know about <a href="https://mqtt.org/getting-started/" > MQTT Protocol. :link: </a>
 ![Alt text](https://psiborg.in/wp-content/uploads/2024/01/MQTT-1-1.webp)
 
