@@ -52,6 +52,8 @@ void loop () {
 
 ### 2. ***Working On Next Project...***
 
+<br>
+
 # [IMAGES] Different IOT Devices ---
 ![IOT1](https://github.com/user-attachments/assets/79db59d5-6edb-408f-9828-874a7c6fe23b)
 
