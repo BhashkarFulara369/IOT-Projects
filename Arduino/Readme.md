@@ -6,4 +6,4 @@ Using Arduino Mega 2560 <a href="https://docs.arduino.cc/hardware/mega-2560/"> d
 #### In `Get_p.H._Value.ino` code --- <br>
 ***It reads pH value from pH sensor at Analog Pin A0 of Arduino Mega 2560 and sends it to ESP8266 via RX and TX pins.***
 
-## 2-> ...
+## 2->
