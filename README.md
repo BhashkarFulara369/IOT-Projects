@@ -50,7 +50,6 @@ void loop () {
 |12.|Fish feeder|
 |13.|Water level sensor|
 
-### 2. Busy on Creating my own VOIP setup.. 
 
 <br>
 
