@@ -28,17 +28,66 @@ void loop () {
 #### ***The Internet of Things (IoT) is a network of physical objects that are connected to the internet and can exchange data with other devices and systems. IoT devices can include household objects, industrial tools and more.***
 
 
-# Projects :>
+# 🌐 IoT Projects by BhaskarFulara369
 
-|S.No.|Begnnier|Intermediate|Advanced|
-|---|---|---|
+Welcome to my curated collection of IoT projects—ranging from simple sensor setups to advanced AI-powered systems. 
+These projects reflect my journey through Mechatronics, AI integration, and real-world problem solving for farmers, students, and tech learners.
 
-|1|r0|r1|r2|
-|2|r0|r1|r2|
-|3|r0|r1|r2|
-|4|r0|r1|r2|
-|5|r0|r1|r2|
+---
 
+## 📘 Beginner Projects
+
+| Project | Description |
+|--------|-------------|
+| **Smart Plant Monitor** | Monitors soil moisture and light levels using basic sensors. Sends alerts when plants need attention. |
+| **Temperature Logger** | Logs ambient temperature using DHT11 sensor and stores data on SD card for offline analysis. |
+| **Student Attendance System** | In More Detail coming soon |
+| **Bluetooth-Controlled LED** | Simple mobile app toggles LED via HC-05 Bluetooth module. |
+
+
+---
+
+## ⚙️ Intermediate Projects
+
+| Project | Description |
+|--------|-------------|
+| **Voice-Controlled Home Automation** | ESP32-based system integrated with Google Assistant for smart control of appliances. |
+| **IoT Weather Station** | Collects and displays live weather data including rainfall, humidity, and wind speed. |
+| **Smart Irrigation Controller** | Automates irrigation based on soil pH and moisture levels using sensor fusion. |
+| **IoT Scheme Recommender** | Uses voice input and region data to suggest relevant government schemes for farmers. |
+| **Flutter-Based Farmer Dashboard** | Mobile dashboard for farmers to download offer letters and interact with advisory chatbot. |
+
+---
+
+## 🚀 Advanced Projects
+
+| Project | Description |
+|--------|-------------|
+| **Secure IoT Gateway with Red Teaming** | Simulates vulnerabilities and defenses using CTF-style labs and TryHackMe integrations. |
+| **Scalable IoT Architecture** | Modular system using MQTT, cloud sync, and microservices for large-scale deployments. |
+
+---
+
+## 🧠 Tech Stack
+
+- 🛠️ Arduino, ESP32, Raspberry Pi
+- 🌐 MQTT, REST APIs, Firebase
+- 🎛️ Sensors: DHT11, PIR, Soil Moisture, pH
+- 🧠 AI/ML: GPT-2, IndicBERT, CNNs
+- 📱 Flutter, Streamlit, Django
+- 🔐 Security: Red Teaming, CTF Labs
+
+---
+
+## 🎯 Vision
+
+These projects aim to bridge the gap between cutting-edge tech and grassroots needs—whether it's helping farmers make better decisions, enabling students with smart tools, or exploring the future of secure IoT systems.
+
+Feel free to explore, fork, and contribute. Let’s build something impactful together!
+
+---
+
+> Made with ❤️ by [BhaskarFulara369](https://github.com/BhaskarFulara369)
 
 
 
