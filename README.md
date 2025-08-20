@@ -31,6 +31,8 @@ void loop () {
 # Projects :>
 
 |S.No.|Begnnier|Intermediate|Advanced|
+|---|---|---|
+
 |1|r0|r1|r2|
 |2|r0|r1|r2|
 |3|r0|r1|r2|
