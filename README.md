@@ -79,21 +79,6 @@ These projects reflect my journey through Mechatronics, AI integration, and real
 
 ---
 
-## 🎯 Vision
-
-These projects aim to bridge the gap between cutting-edge tech and grassroots needs—whether it's helping farmers make better decisions, enabling students with smart tools, or exploring the future of secure IoT systems.
-
-Feel free to explore, fork, and contribute. Let’s build something impactful together!
-
----
-
-> Made with ❤️ by [BhaskarFulara369](https://github.com/BhaskarFulara369)
-
-
-
-
-
-
 
 
 ### 1. Automated Hydroponics System <a href="https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics">Know more about hydroponics. :link: </a>
@@ -119,6 +104,8 @@ Feel free to explore, fork, and contribute. Let’s build something impactful to
 
 <br>
 
+
+
 # [IMAGES] Different IOT Devices ---
 ![IOT1](https://github.com/user-attachments/assets/79db59d5-6edb-408f-9828-874a7c6fe23b)
 
@@ -127,4 +114,7 @@ Feel free to explore, fork, and contribute. Let’s build something impactful to
 ![IOT3](https://github.com/user-attachments/assets/8c07ccd0-b522-47ca-8d63-4fc1d8292bfe)
 
 ![IOT4](https://github.com/user-attachments/assets/18e8e0d4-4524-45d3-8946-421f3e3c1105)
+
+
+> Made with ❤️ by [BhaskarFulara369](https://github.com/BhaskarFulara369)
 
