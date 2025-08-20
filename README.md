@@ -30,6 +30,21 @@ void loop () {
 
 # Projects :>
 
+|S.No.|Begnnier|Intermediate|Advanced|
+|1|r0|r1|r2|
+|2|r0|r1|r2|
+|3|r0|r1|r2|
+|4|r0|r1|r2|
+|5|r0|r1|r2|
+
+
+
+
+
+
+
+
+
 ### 1. Automated Hydroponics System <a href="https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics">Know more about hydroponics. :link: </a>
 #### **Connection Diagram** ->>
 ![Connection_Diagram](https://github.com/user-attachments/assets/74604ffc-1dd4-4bef-b5b3-c646aa927771)
