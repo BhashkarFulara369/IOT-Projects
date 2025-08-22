@@ -116,5 +116,16 @@ These projects reflect my journey through Mechatronics, AI integration, and real
 ![IOT4](https://github.com/user-attachments/assets/18e8e0d4-4524-45d3-8946-421f3e3c1105)
 
 
+## Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to open a GitHub issue or submit a pull request.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
 > Made with ❤️ by [BhaskarFulara369](https://github.com/BhaskarFulara369)
 
