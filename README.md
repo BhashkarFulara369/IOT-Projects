@@ -129,5 +129,5 @@ This project is licensed under the MIT License.
 
 --
 
-> Made with ❤️ by [BhaskarFulara369](https://github.com/BhaskarFulara369)
+> Made with ❤️ by [BhaskarFulara369](https://github.com/BhaskarFulara369)..
 
