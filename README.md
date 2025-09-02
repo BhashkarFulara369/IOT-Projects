@@ -129,6 +129,6 @@ Feel free to open a GitHub issue or submit a pull request.
 This project is licensed under the MIT License.
 
 --
-...*
+
 > Made with ❤️ by [BhaskarFulara369](https://github.com/BhaskarFulara369)..
 
