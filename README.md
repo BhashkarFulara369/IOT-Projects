@@ -106,6 +106,9 @@ These projects reflect my journey through Mechatronics, AI integration, and real
 <br>
 
 ### 2. Student Attendance System
+<br>
+<br>
+<br>
 
 # [IMAGES] Different IOT Devices ---
 ![IOT1](https://github.com/user-attachments/assets/79db59d5-6edb-408f-9828-874a7c6fe23b)
