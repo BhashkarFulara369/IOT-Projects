@@ -28,7 +28,7 @@ void loop () {
 #### ***The Internet of Things (IoT) is a network of physical objects that are connected to the internet and can exchange data with other devices and systems. IoT devices can include household objects, industrial tools and more.***
 
 
-# 🌐 IoT Projects by BhaskarFulara369
+# 🌐 IoT Projects by ME :) ;) 
 
 Welcome to my curated collection of IoT projects—ranging from simple sensor setups to advanced AI-powered systems. 
 These projects reflect my journey through Mechatronics, AI integration, and real-world problem solving for farmers, students, and tech learners.
@@ -70,8 +70,8 @@ These projects reflect my journey through Mechatronics, AI integration, and real
 
 ## 🧠 Tech Stack
 
-- 🛠️ Arduino, ESP32, Raspberry Pi
-- 🌐 MQTT, REST APIs, Firebase
+- 🛠️ Arduino, ESP8266, Raspberry Pi
+- 🌐 MQTT, REST APIs, Firebase 
 - 🎛️ Sensors: DHT11, PIR, Soil Moisture, pH
 - 🧠 AI/ML: GPT-2, IndicBERT, CNNs
 - 📱 Flutter, Streamlit, Django
