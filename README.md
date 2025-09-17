@@ -55,7 +55,7 @@ These projects reflect my journey through Mechatronics, AI integration, and real
 | **IoT Weather Station** | Collects and displays live weather data including rainfall, humidity, and wind speed. |
 | **Smart Irrigation Controller** | Automates irrigation based on soil pH and moisture levels using sensor fusion. |
 | **IoT Scheme Recommender** | Uses voice input and region data to suggest relevant government schemes for farmers. |
-| **Flutter-Based Farmer Dashboard** | Mobile dashboard for farmers to download offer letters and interact with advisory chatbot. |
+
 
 ---
 
