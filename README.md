@@ -79,8 +79,10 @@ These projects reflect my journey through Mechatronics, AI integration, and real
 - 🔐 Security: Red Teaming, CTF Labs
 
 ---
-## AIoT-Edge-Pulse
+# AIoT-Edge-Pulse
 A project focused on moving sensor logic from the cloud to the Edge. Instead of just dumping raw data into a database, this setup uses a local ML model to process vibrations and temperatures to detect hardware fatigue in real-time.
+---
+### Listing up my all A-IOT Projects ---
 
 
 ### 1. Automated Hydroponics System <a href="https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics">Know more about hydroponics. :link: </a>
