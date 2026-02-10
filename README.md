@@ -29,7 +29,7 @@ void loop () {
 #### ***The Internet of Things (IoT) is a network of physical objects that are connected to the internet and can exchange data with other devices and systems. IoT devices can include household objects, industrial tools and more.***
 
 
-# 🌐 IoT Projects by ME :) ;) 
+#  IoT Projects by ME :) ;) 
 
 Welcome to my curated collection of IoT projects—ranging from simple sensor setups to advanced AI-powered systems. 
 These projects reflect my journey through Mechatronics, AI integration, and real-world problem solving for farmers, students, and tech learners.
